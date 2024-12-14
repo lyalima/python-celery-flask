@@ -1,4 +1,4 @@
-# Distribuição de tarefas de cotação de criptomoedas com Python, Celery e RabbitMQ e Flask.
+# Distribuição de tarefas de cotação de criptomoedas com Python, Celery, RabbitMQ e Flask.
 
 O projeto usa a API do site DefiLlama para pegar as cotações de criptomoedas, através do nome da cripto(chain) e do endereço de contrato(address), que podem ser obtidos no site da Coingecko e da EtherScan, e salva essas cotações no banco de dados.
 
