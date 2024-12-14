@@ -1,0 +1,3 @@
+venv/
+celery.sqlite
+cryptos.db
